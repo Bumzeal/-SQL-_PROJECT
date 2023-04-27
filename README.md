@@ -21,7 +21,8 @@ He plans on using these insights to help him decide whether he should expand the
 This Data was gotten from this 👉 [LINK](https://8weeksqlchallenge.com/case-study-1/)
 ### Data transforming
 
-### Modelling
+###Modelling
+
 
 ### Analysis& visualization
 Dashboard 1: Customer's Report |
