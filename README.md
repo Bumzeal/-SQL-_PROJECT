@@ -24,5 +24,8 @@ This Data was gotten from this 👉 [LINK](https://8weeksqlchallenge.com/case-st
 ### Modelling
 
 ### Analysis& visualization
+Item Dashboard | Customer Dashboard
+:-------------:|:-----------------:
+![]()          | ![]()
 
 ### Conclusion and recomendation
