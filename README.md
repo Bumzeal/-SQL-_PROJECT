@@ -24,8 +24,15 @@ This Data was gotten from this 👉 [LINK](https://8weeksqlchallenge.com/case-st
 ### Modelling
 
 ### Analysis& visualization
-Item Dashboard | Customer Dashboard
-:-------------:|:-----------------:
-![](Danny's_dashboard2.png)          | ![](Danny's_dashboard)
+Dashboard 1: Customer's Report |
+:-------------:|
+![Danny's_dashboard](https://user-images.githubusercontent.com/78567274/234736028-deda488f-3729-4aa9-8691-febb3234971f.PNG)
+
+Dashboard 2: Item's Report 
+:-------------:|
+![Danny's_dashboard2](https://user-images.githubusercontent.com/78567274/234736569-7e77d5fd-8737-4bcb-9151-43a4206df447.PNG)
+
+
+
 
 ### Conclusion and recomendation
