@@ -26,6 +26,6 @@ This Data was gotten from this 👉 [LINK](https://8weeksqlchallenge.com/case-st
 ### Analysis& visualization
 Item Dashboard | Customer Dashboard
 :-------------:|:-----------------:
-![]()          | ![]()
+![](Danny's_dashboard2.png)          | ![](Danny's_dashboard)
 
 ### Conclusion and recomendation
