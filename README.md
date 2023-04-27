@@ -19,9 +19,12 @@ He plans on using these insights to help him decide whether he should expand the
 
 ## Data sourcing
 This Data was gotten from this 👉 [LINK](https://8weeksqlchallenge.com/case-study-1/)
-### Data transforming
+You can also get the Query used in creating the Table in the attached Script
 
-###Modelling
+## Data transforming
+All null values and other data transformation was acheived using powerQuery in power Bi tool
+
+## Modelling
 
 
 ### Analysis& visualization
