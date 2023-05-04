@@ -1,6 +1,3 @@
-
-
-
  align = center ![](istockphoto.jpg)
 
 ## Introduction
