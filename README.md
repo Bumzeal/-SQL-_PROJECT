@@ -1,8 +1,10 @@
 # -SQL-_PROJECT1
 
-Hi welcome Here,
+Hi 👋
 
-This Repository Houses all my SQL PROJECT,This project has Increased my knowledge of SQL
+welcome Here,
+
+This My SQL Repository and It Houses all SQL PROJECT Carried out by Me,This project will Increased my knowledge of SQL
 
 Below are the Listed SQL Project and this
 
