@@ -1,12 +1,15 @@
 # -SQL-_PROJECT1
 
 Hi welcome Here,
+
 This Repository Houses all my SQL PROJECT,This project has Increased my knowledge of SQL
-Below are the Listed SQL Project and this 
-1.
-2.
-3.
-4.
+
+Below are the Listed SQL Project and this
+
+1 .
+2 .
+3 .
+4 .
 Please do well to go through it and leave a comment Below also note that you can contribute to this Project.
 
 
