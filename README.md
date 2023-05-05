@@ -4,9 +4,16 @@ Hi 👋
 
 welcome Here,
 
-This My SQL Repository and It Houses all SQL PROJECT Carried out by Me,This project will Increased my knowledge of SQL
+This is my SQL Repository and It Houses all SQL PROJECT Carried out by Me,This projects has Increased my ability to solve Analytics Question using STructured Query Language up to the Advance level,Here you will see how 
 
-Below are the Listed SQL Project and this
++ I created The tables In postgresql
++ Transformed the  Data
++ Created Relationship between the Tables 
++ Analyse my Data using Data Manipulation Language using Postgresql server
++ Connected my Postgresql server to my Business Intelligence Tool 
++ Then finally Visualise the Data using Business Intelligence Tool like POwer BI.
+
+welcome Once Again and Below are the Listed SQL Project.
 
 * 8 weeks challenge on SQL,Kindly click 👉 [week 1](https://github.com/Bumzeal/-SQL-_PROJECT1/blob/main/week1_challenge_Danny_DinerReadme.md)
 * week 2
