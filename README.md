@@ -4,7 +4,7 @@ Hi 👋
 
 welcome Here,
 
-This is my SQL Repository and It Houses all SQL PROJECT done by Me,This projects has Increased my ability to solve Analytical Questions,Approach Real life Problems and create Solutions using STructured Query Language,Here you will see how 
+This is my SQL Repository and It Houses all SQL PROJECT done by Me,This projects as Increased my ability to solve Analytical Questions,Approach Real life Problems and create Solutions using STructured Query Language,Here you will see how 
 
 + I created The tables In postgresql
 + Transformed Data
