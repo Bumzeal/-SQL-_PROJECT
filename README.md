@@ -16,10 +16,8 @@ This is my SQL Repository and It Houses all SQL PROJECT Carried out by Me,This p
 welcome Once Again and Below are the Listed SQL Project.
 
 * 8 weeks challenge on SQL,Kindly click 👉 [week 1](https://github.com/Bumzeal/-SQL-_PROJECT1/blob/main/week1_challenge_Danny_DinerReadme.md)
-* week 2
-* week 3
-* week 4
-* 
+*  DETECTIVE SQL organised By @DSAL lighthouse 👉[Detective sql challenge](https://github.com/Bumzeal/-SQL-_PROJECT1/blob/main/week1_challenge_Danny_DinerReadme.md)
+
 Please do well to go through it and leave a comment Below ,also note that you can contribute to this Project.
 
 
