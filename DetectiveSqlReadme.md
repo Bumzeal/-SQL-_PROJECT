@@ -9,13 +9,12 @@ A crime has taken place and the detective needs your help. The detective gave yo
 * Submit a Google Drive or OneDrive link to the word or text document
 
 ## DATASET
-[See link to dataset](
-https://drive.google.com/drive/folders/1SLlSSzIqhu9m4p8HmoJYjn5X_GTYdDsf?usp=share_link)
+[See link to dataset](https://drive.google.com/drive/folders/1SLlSSzIqhu9m4p8HmoJYjn5X_GTYdDsf?usp=share_link)
 
 
 
 
-##HOW I SOLVED THE MURDER MYSTERY
+## HOW I SOLVED THE MURDER MYSTERY
 
 To start with,I used the information given about crime scene, I filtered the Crime scene Report Table with 
 Type - murder ,Date-Jan.15, 2018, Place = SQL City, see the table query
