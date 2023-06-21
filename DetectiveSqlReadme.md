@@ -91,3 +91,7 @@ She has red hair and she drives a Tesla Model S. I know that she attended the SQ
 ![n11](https://github.com/Bumzeal/-SQL-_PROJECT/assets/78567274/beeec822-e48d-4b92-91e7-a8565bc3a884)
 
 
+
+
+[click script](https://github.com/Bumzeal/-SQL-_PROJECT/blob/main/DASLscript.sql)
+
