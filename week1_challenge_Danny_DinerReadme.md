@@ -24,7 +24,7 @@ You can also get the Query used in creating the Table in the attached Script
 All null values and other data transformation was achieved using a power query in the Power Bi tool
 
 ## Modelling
-this was achieved using PostgreSQL 
+This was achieved using PostgreSQL 
 [click to view the SQL script ](https://github.com/Bumzeal/-SQL-_PROJECT/blob/main/WK1SQL_CHALLENGE_DANNY.sql)
 
 ### Analysis& visualization
