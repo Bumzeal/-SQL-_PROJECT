@@ -41,12 +41,17 @@ Dashboard 2: Item Report
 ### Conclusion and recommendations
 
 KEY INSIGHT
+
 • The most Frequent customer is Customer B 
+
 • And the most Purchased Item By all the customers is Ramen, Generating the Highest Revenue
+
 • The day with the Highest sales is Jan 1st with total sales of 64
 
 RECOMMENDATION 
 
 • Increase awareness of other Products 
+
 • Increase Customer Patronage by Introducing Discount 
+
 • More advertisements should be carried out to get New Customers
